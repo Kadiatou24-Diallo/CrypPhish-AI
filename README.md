@@ -1,2 +1,2 @@
 # CrypPhish-AI
-A Hybrid AI and Blockchain Framework for Phishing Email Detection and Secure Communication.
+A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain.
