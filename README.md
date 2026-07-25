@@ -186,17 +186,6 @@ This project is licensed under the MIT License.
 ![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
-# 📚 Research Publications
-
-This project resulted in two IEEE-indexed research publications.
-
-| Publication | Conference | DOI |
-|-------------|------------|-----|
-| **A Hybrid Approach for Phishing Email Detection Using AI and Cryptography** | ICPCSN 2025 | 10.1109/ICPCSN65854.2025.11035457 |
-| **A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain** | ICCCA 2025 | 10.1109/ICCCA66364.2025.11325609 |
-
-For detailed publication information, visit the **[publications](publications/README.md)** directory.
-
 # 🎓 Research Highlights
 
 This repository presents the complete research outcomes of my M.Tech in Information Security and Cyber Forensics.
@@ -210,3 +199,19 @@ The project includes:
 - 🌐 Interactive Streamlit Web Application
 - 📊 Machine Learning Model Evaluation
 - 📖 Complete Technical Documentation
+
+> **This repository contains the complete implementation, documentation, datasets, and research artifacts developed during my M.Tech research.**
+
+
+# 📚 Research Publications
+
+This project resulted in two IEEE-indexed research publications.
+
+| Publication | Conference | DOI |
+|-------------|------------|-----|
+| **A Hybrid Approach for Phishing Email Detection Using AI and Cryptography** | ICPCSN 2025 | [10.1109/ICPCSN65854.2025.11035457](https://doi.org/10.1109/ICPCSN65854.2025.11035457)
+| **A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain** | ICCCA 2025 | [10.1109/ICCCA66364.2025.11325609](https://doi.org/10.1109/ICCCA66364.2025.11325609)
+
+For detailed publication information, visit the **[publications](publications/README.md)** directory.
+
+
