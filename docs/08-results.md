@@ -42,3 +42,35 @@ Future experiments may include:
 - Additional Deep Learning models
 - Explainable AI (XAI)
 - Multi-blockchain implementation
+
+  # Experimental Results
+
+## Machine Learning Performance Comparison
+
+The phishing detection models were evaluated using Accuracy, Precision, Recall, and F1-Score.
+
+![Machine Learning Performance Comparison](../assets/figures/ml-performance-comparison.png)
+
+---
+
+## Logistic Regression Confusion Matrix
+
+![Logistic Regression Confusion Matrix](../assets/figures/confusion-matrix-logistic-regression.png)
+
+---
+
+## Random Forest Confusion Matrix
+
+![Random Forest Confusion Matrix](../assets/figures/confusion-matrix-random-forest.png)
+
+---
+
+## Support Vector Machine Confusion Matrix
+
+![SVM Confusion Matrix](../assets/figures/confusion-matrix-svm.png)
+
+---
+
+## LSTM Confusion Matrix
+
+![LSTM Confusion Matrix](../assets/figures/confusion-matrix-lstm.png)
