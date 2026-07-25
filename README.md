@@ -214,4 +214,21 @@ This project resulted in two IEEE-indexed research publications.
 
 For detailed publication information, visit the **[publications](publications/README.md)** directory.
 
+## System Architecture
+## 🏗️ System Architecture
+
+The CrypPhish-AI framework integrates Artificial Intelligence and Ethereum blockchain to detect phishing emails and securely store verified email metadata.
+
+<p align="center">
+  <img src="assets/architecture/system-architecture.png" alt="CrypPhish-AI System Architecture" width="650">
+</p>
+
+**Workflow Overview**
+
+1. Receive an incoming email.
+2. Analyze the email using Machine Learning algorithms.
+3. Classify the email as **Phishing** or **Legitimate**.
+4. Flag phishing emails for quarantine.
+5. Store the hash and metadata of legitimate emails on the Ethereum blockchain.
+6. Improve trust, integrity, and secure communication.
 
