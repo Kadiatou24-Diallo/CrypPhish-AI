@@ -96,3 +96,91 @@ The project documentation is available in the `docs/` directory.
 - Experimental Results
 - Testing
 - Future Work
+
+  ## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Kadiatou24-Diallo/CrypPhish-AI.git
+```
+
+### Navigate to the Project
+
+```bash
+cd CrypPhish-AI
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+## Running the Application
+
+Start the Streamlit application using:
+
+```bash
+streamlit run source-code/app.py
+```
+
+The application will be available at:
+
+```
+http://localhost:8501
+```
+## Experimental Results
+
+The proposed framework was evaluated using multiple Machine Learning algorithms.
+
+The evaluated models include:
+
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+- Long Short-Term Memory (LSTM)
+
+The evaluation metrics include:
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC Curve
+- Confusion Matrix
+
+Detailed experimental results are available in the **docs** directory.
+## Future Improvements
+
+Future enhancements of the project include:
+
+- Multi-blockchain support
+- Explainable Artificial Intelligence (XAI)
+- Real-time email monitoring
+- Cloud deployment
+- Browser extension integration
+- Mobile application support
+- Smart contract optimization
+- Multi-user authentication and access control
+  ## Author
+
+**Kadiatou Diallo**
+
+M.Tech in Information Security and Cyber Forensics
+
+Research Interests:
+
+- Artificial Intelligence
+- Cybersecurity
+- Blockchain
+- Phishing Detection
+- Secure Communication
+## License
+
+This project is licensed under the MIT License.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?logo=ethereum)
+![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contract-363636?logo=solidity)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
