@@ -184,3 +184,22 @@ This project is licensed under the MIT License.
 ![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contract-363636?logo=solidity)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
+## Publications
+
+This project resulted in two research publications.
+
+### Paper 1
+
+**A Hybrid Approach for Phishing Email Detection Using AI and Cryptography**
+
+- Conference: ICPCSN 2025
+- IEEE Xplore Indexed
+- DOI: ...
+
+### Paper 2
+
+**A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain**
+
+- Conference: IEEE ICCCA 2025
+- IEEE Xplore Indexed
+- DOI: ...
