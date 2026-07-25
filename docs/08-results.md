@@ -74,3 +74,21 @@ The phishing detection models were evaluated using Accuracy, Precision, Recall, 
 ## LSTM Confusion Matrix
 
 ![LSTM Confusion Matrix](../assets/figures/confusion-matrix-lstm.png)
+
+## ROC Curves
+
+### Logistic Regression
+
+![ROC Logistic Regression](../assets/figures/roc-curve-logistic-regression.png)
+
+### Random Forest
+
+![ROC Random Forest](../assets/figures/roc-curve-random-forest.png)
+
+### Support Vector Machine
+
+![ROC SVM](../assets/figures/roc-curve-svm.png)
+
+### LSTM
+
+![ROC LSTM](../assets/figures/roc-curve-lstm.png)
