@@ -16,7 +16,7 @@ Before running the project, install the following software:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CrypPhish-AI.git
+git clone https://github.com/Kadiatou-Diallo/CrypPhish-AI.git
 ```
 
 ---
