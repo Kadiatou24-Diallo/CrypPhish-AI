@@ -184,30 +184,29 @@ This project is licensed under the MIT License.
 ![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contract-363636?logo=solidity)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-## Publications
-
-## 📚 Research Publications
-
-This project has resulted in two IEEE-indexed research publications.
-
-### 📄 Publication 1
-
-**A Hybrid Approach for Phishing Email Detection Using AI and Cryptography**
-
-- Conference: 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN)
-- Publisher: IEEE
-- Conference Location: Salem, India
-- Conference Date: 14–16 May 2025
-- DOI: **10.1109/ICPCSN65854.2025.11035457**
-
 ---
 
-### 📄 Publication 2
+# 📚 Research Publications
 
-**A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain**
+This project resulted in two IEEE-indexed research publications.
 
-- Conference: 2025 IEEE 7th International Conference on Computing, Communication and Automation (ICCCA)
-- Publisher: IEEE
-- Conference Location: Greater Noida, India
-- Conference Date: 28–30 November 2025
-- DOI: **10.1109/ICCCA66364.2025.11325609**
+| Publication | Conference | DOI |
+|-------------|------------|-----|
+| **A Hybrid Approach for Phishing Email Detection Using AI and Cryptography** | ICPCSN 2025 | 10.1109/ICPCSN65854.2025.11035457 |
+| **A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain** | ICCCA 2025 | 10.1109/ICCCA66364.2025.11325609 |
+
+For detailed publication information, visit the **[publications](publications/README.md)** directory.
+
+# 🎓 Research Highlights
+
+This repository presents the complete research outcomes of my M.Tech in Information Security and Cyber Forensics.
+
+The project includes:
+
+- 📄 One M.Tech Thesis
+- 📚 Two IEEE-Indexed Research Publications
+- 🤖 AI-Based Phishing Email Detection System
+- ⛓️ Ethereum Smart Contract Integration
+- 🌐 Interactive Streamlit Web Application
+- 📊 Machine Learning Model Evaluation
+- 📖 Complete Technical Documentation
