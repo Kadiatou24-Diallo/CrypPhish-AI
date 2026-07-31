@@ -114,7 +114,7 @@ When an email is classified as phishing, CrypPhish AI displays a warning togethe
 
 The SHA-256 hash of the analyzed email is generated for identification. However, phishing emails are flagged by the system and are not stored on the blockchain.
 
-![CrypPhish AI Phishing Detection](../screenshots/crypphish-ai-phishing-detection.png)
+![CrypPhish AI Phishing Detection](../screenshots/crypphish-ai-phishing-detection-result.png)
 
 ### Blockchain History
 
