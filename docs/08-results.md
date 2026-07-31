@@ -125,3 +125,15 @@ The transaction record shows the transaction hash, sender address, smart contrac
 ![Ganache Smart Contract Transaction](../screenshots/ganache-smart-contract-transaction.png)
 
 *Figure: Smart contract transaction recorded on the Ganache Ethereum blockchain.*
+
+### AI and Blockchain Integration Results
+
+The final integration demonstrates the interaction between the Machine Learning phishing detection component and the Ethereum blockchain.
+
+Incoming emails are first analyzed by the trained Machine Learning model. Emails classified as legitimate (SAFE) are securely recorded on the blockchain by storing their hash, and a blockchain transaction hash (TxHash) is generated as evidence of the transaction.
+
+Emails classified as PHISHING are not stored on the blockchain, preventing malicious email data from being registered as legitimate records.
+
+![AI Blockchain Email Results](../screenshots/ai-blockchain-email-results.png)
+
+*Figure: AI-based email classification integrated with Ethereum blockchain storage.*
