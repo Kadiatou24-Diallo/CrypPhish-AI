@@ -1,0 +1,8 @@
+streamlit
+numpy
+python-dotenv
+web3
+py-solc-x
+nltk
+scikit-learn
+tensorflow
