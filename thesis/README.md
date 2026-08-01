@@ -1,20 +1,16 @@
 # M.Tech Thesis
 
-This directory contains the complete M.Tech dissertation developed as part of the Master of Technology in Information Security and Cyber Forensics.
+This directory contains information about the Master's dissertation that inspired the CrypPhish-AI project.
 
 ---
 
-## Thesis Information
+## Thesis Title
 
-**Title**
+**A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain**
 
-*A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain*
+---
 
-**Author**
-
-Kadiatou Diallo
-
-**Degree**
+## Degree
 
 Master of Technology (M.Tech)
 
@@ -22,50 +18,46 @@ Information Security and Cyber Forensics
 
 ---
 
-## Thesis File
+## Research Summary
 
-| File | Description |
-|------|-------------|
-| MTech_Thesis_CrypPhish-AI.pdf | Complete Master's thesis |
+The research proposes a hybrid cybersecurity framework that combines Artificial Intelligence and Ethereum blockchain technology to improve phishing email detection and secure communication.
 
----
+The framework integrates:
 
-## Research Overview
-
-The thesis presents a hybrid framework that integrates Artificial Intelligence and Ethereum blockchain to detect phishing emails and securely verify legitimate email communication.
-
-The proposed framework includes:
-
-- Machine Learning-based email classification
-- TF-IDF feature extraction
-- SHA-256 email hashing
-- Ethereum blockchain integration
+- Machine Learning
+- Natural Language Processing (NLP)
+- SHA-256 hashing
+- Ethereum blockchain
 - Solidity smart contracts
-- Web3.py communication layer
-- Interactive Streamlit web application
+- Streamlit web application
 
 ---
 
 ## Research Contributions
 
-- Development of an AI-based phishing detection framework
-- Integration of Machine Learning with Ethereum blockchain
+- AI-based phishing email detection
+- Blockchain-based email verification
+- Smart contract implementation
 - Secure storage of verified email metadata
-- Smart contract implementation for email verification
-- Interactive web-based demonstration platform
+- Experimental evaluation of multiple Machine Learning models
 
 ---
 
-## Related Publications
+## Thesis Availability
 
-The research resulted in two IEEE-indexed publications.
+The complete M.Tech thesis is **not publicly available** in this repository.
 
-1. **A Hybrid Approach for Phishing Email Detection Using AI and Cryptography**
-
-2. **A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain**
+If you are a recruiter, researcher, or academic interested in reviewing the full dissertation, please contact the author directly.
 
 ---
 
-## Purpose
+## Related Resources
 
-This folder contains the complete dissertation describing the methodology, implementation, experimental evaluation, and conclusions of the CrypPhish-AI research project.
+This repository contains:
+
+- Complete source code
+- Project documentation
+- System architecture
+- Experimental results
+- Application screenshots
+- IEEE publications CrypPhish-AI research project.
