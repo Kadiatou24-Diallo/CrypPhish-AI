@@ -16,9 +16,22 @@ CrypPhish-AI is an AI-powered phishing email detection system integrated with bl
 
 This project was developed as part of my M.Tech thesis in Information Security and Cyber Forensics.
 
-## System Architecture
+## Table of Contents
 
-> **Architecture diagram will be added here.**
+- [System Architecture](#-system-architecture)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Thesis](#-thesis)
+- [Documentation](#documentation)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Experimental Results](#experimental-results)
+- [Future Improvements](#future-improvements)
+- [Research Highlights](#-research-highlights)
+- [Research Publications](#-research-publications)
+- [Author](#author)
+- [License](#license)
 
 > ## Key Features
 
@@ -82,15 +95,9 @@ CrypPhish-AI/
 └── .gitignore
 ```
 
-## 📄 Thesis
+The complete M.Tech thesis is not publicly available in this repository.
 
-This project is based on my M.Tech thesis:
-
-**A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain**
-
-📖 Read the full dissertation here:
-
-[**MTech_Thesis_CrypPhish-AI.pdf**](thesis/MTech_Thesis_CrypPhish-AI.pdf)
+Researchers, recruiters, or academic supervisors interested in reviewing the dissertation may contact the author directly.
 
 ## Documentation
 
@@ -185,16 +192,6 @@ Research Interests:
 - Blockchain
 - Phishing Detection
 - Secure Communication
-## License
-
-This project is licensed under the MIT License.
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
-![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?logo=ethereum)
-![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contract-363636?logo=solidity)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
----
 
 # 🎓 Research Highlights
 
@@ -224,7 +221,6 @@ This project resulted in two IEEE-indexed research publications.
 
 For detailed publication information, visit the **[publications](publications/README.md)** directory.
 
-## System Architecture
 ## 🏗️ System Architecture
 
 The CrypPhish-AI framework integrates Artificial Intelligence and Ethereum blockchain to detect phishing emails and securely store verified email metadata.
