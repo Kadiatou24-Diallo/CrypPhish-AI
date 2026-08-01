@@ -1,4 +1,14 @@
 # CrypPhish-AI
+<p align="center">
+  <img src="screenshots/crypphish-ai-main-interface.png" width="900">
+</p>
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-lightgrey)
+![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contract-grey)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## A Hybrid Framework for Phishing Email Detection and Secure Communication Using AI and Blockchain
 
