@@ -6,3 +6,4 @@ py-solc-x
 nltk
 scikit-learn
 tensorflow
+
