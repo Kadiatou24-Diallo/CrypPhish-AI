@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Machine Learning models
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Blockchain
+ganache_db/
+chain-data/
+
+# Logs
+logs/
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
